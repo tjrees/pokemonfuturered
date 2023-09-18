@@ -181,6 +181,9 @@
 #define DEFAULT_STAT_STAGE 6
 #define MAX_STAT_STAGE    12
 
+// Friendship value that the majority of species use. This was changed in Generation 8 to 50.
+#define STANDARD_FRIENDSHIP 70
+
 // Shiny odds
 #define SHINY_ODDS 8 // Actual probability is SHINY_ODDS/65536
 
